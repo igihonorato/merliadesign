@@ -1,0 +1,43 @@
+ /*botao*/ 
+ nav a{text-decoration: none; 
+    padding: 10px; 
+     color: rgb(255, 255, 255); 
+     font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+nav {left: 0;
+    top: 0;
+    width: 98%;
+    padding: 20px;
+    text-align: right;
+    position: fixed;
+    background-color: rgb(149, 209, 229)}
+
+.logo {position: fixed;
+        top: -15px;
+        left: 15px;}
+
+.contate {font-size: 90px;
+    color: lightblue;
+    text-align: center;
+    top: 200px;
+    position: relative;}
+   
+.instagram{position: absolute;
+     top: 500px;
+     left: 760px;}
+  
+.pinterest{position: absolute;
+    top: 500px;
+    left: 960px;}
+
+.footer { background-color:lightblue; 
+        padding: 15px; 
+        text-align: center; 
+        position: relative; 
+        top: 600px ;} 
+
+h2 {color: lightblue;
+    position: relative;
+    text-align: center;
+    top: 550px;}
